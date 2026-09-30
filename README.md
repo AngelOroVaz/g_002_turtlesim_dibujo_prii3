@@ -5,8 +5,11 @@ Workspace de ROS 2 del grupo 02 para la asignatura Robots Inteligentes.
 ## Requisitos
 
 1 Ubuntu 22.04 LTS
+
 2 ROS 2 Humble
+
 3 Python 3
+
 
 ## Paquete
 
