@@ -1,0 +1,3 @@
+[console_scripts]
+dibujar_2 = g02_prii3_turtlesim.dibujar_2:main
+
